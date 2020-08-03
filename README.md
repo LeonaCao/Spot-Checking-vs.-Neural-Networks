@@ -1,6 +1,6 @@
-# SpotCheck-vs.-Neural-Network
+# Spot-Checking-vs.-Neural-Network
 
-This is the last assignment during my Data Science course, where we were asked to build and fit models in both SpotCheck and Neural Network.
+This is the last assignment during my Data Science course, where we were asked to build and fit models in both Spot Checking and Neural Network.
 
 In this section I worked with weather data. For the spot check model, I am supposed to use lag variables.
 
